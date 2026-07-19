@@ -55,5 +55,5 @@ Agar streaming tetap berjalan secara nonstop meskipun Anda menutup aplikasi term
 <p align="center">
       <strong>Donate</strong>
     <br>
-<a href="https://ibb.co.com/Mkh8wB9H"><img src="https://i.ibb.co.com/Mkh8wB9H/qr-Min-Z-Store-22-11-23-1700648439.jpg" alt="qr-Min-Z-Store-22-11-23-1700648439" border="0"></a>
+<a href="https://ibb.co.com/Mkh8wB9H"><img src="https://i.ibb.co.com/tphZjL36/qr-Min-Z-Store-22-11-23-1700648439.jpg" alt="qr-Min-Z-Store-22-11-23-1700648439" border="0"></a>
 </p>
